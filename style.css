@@ -1,0 +1,3 @@
+footer li a:last-of-type::after {
+    display: none;
+}
